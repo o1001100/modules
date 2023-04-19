@@ -1,0 +1,13 @@
+{
+  "id": "NoStorageRestrict",
+  "timestamp": 1658293183.0,
+  "versions": [
+    {
+      "timestamp": 1658293183.0,
+      "version": "v2",
+      "versionCode": 2,
+      "zipUrl": "https://github.com/o1001100/modules/modules/NoStorageRestrict/v2_2.zip",
+      "changelog": ""
+    }
+  ]
+}
