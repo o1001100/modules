@@ -1,6 +1,6 @@
 {
   "name": "cool-modules",
-  "timestamp": 1681984070.588099,
+  "timestamp": 1681984512.936247,
   "modules": [
     {
       "id": "NoStorageRestrict",
@@ -52,6 +52,32 @@
       "states": {
         "zipUrl": "https://o1001100.github.io/modules/modules/ccbins/v10_15.zip",
         "changelog": ""
+      }
+    },
+    {
+      "id": "jamesdsp",
+      "license": "",
+      "version": "v4.6 (8-4-2022)",
+      "versionCode": 86,
+      "name": "JamesDSP Manager",
+      "author": "james34602, zackptg5, ahrion",
+      "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
+      "states": {
+        "zipUrl": "https://o1001100.github.io/modules/modules/jamesdsp/v4.6_(8-4-2022)_86.zip",
+        "changelog": "https://o1001100.github.io/modules/modules/jamesdsp/v4.6_(8-4-2022)_86.md"
+      }
+    },
+    {
+      "id": "mindetach",
+      "license": "",
+      "version": "v3.3",
+      "versionCode": 11,
+      "name": "mindetach",
+      "author": "j-hc",
+      "description": "Minimal module for detaching apps from Play Store",
+      "states": {
+        "zipUrl": "https://o1001100.github.io/modules/modules/mindetach/v3.3_11.zip",
+        "changelog": "https://o1001100.github.io/modules/modules/mindetach/v3.3_11.md"
       }
     },
     {
