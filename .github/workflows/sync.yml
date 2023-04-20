@@ -38,7 +38,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Sync Modules
-        run: util/cli.py sync
+        run: cd util && python cli.py sync
 
       - name: Git Commit Push Action
         uses: GuillaumeFalourd/git-commit-push@v1.3
