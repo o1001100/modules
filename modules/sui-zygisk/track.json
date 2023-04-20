@@ -1,9 +1,0 @@
-{
-  "id": "sui-zygisk",
-  "update_to": "https://github.com/RikkaApps/Sui/releases/download/v13.0.1/sui-zygisk-v13.0.1-release.zip",
-  "license": "",
-  "changelog": "https://raw.githubusercontent.com/RikkaApps/Sui/master/template/magisk_module/CHANGELOG.md",
-  "added": 1681890016.268057,
-  "last_update": 1675255573.0,
-  "versions": 1
-}

@@ -1,6 +1,6 @@
 {
   "name": "cool-modules",
-  "timestamp": 1681979528.157652,
+  "timestamp": 1681984070.588099,
   "modules": [
     {
       "id": "NoStorageRestrict",
@@ -91,19 +91,6 @@
       "states": {
         "zipUrl": "https://o1001100.github.io/modules/modules/shamiko/v0.7_(161)_161.zip",
         "changelog": "https://o1001100.github.io/modules/modules/shamiko/v0.7_(161)_161.md"
-      }
-    },
-    {
-      "id": "sui-zygisk",
-      "license": "",
-      "version": "v13.0.1",
-      "versionCode": 306,
-      "name": "Zygisk - Sui",
-      "author": "Rikka",
-      "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
-      "states": {
-        "zipUrl": "https://o1001100.github.io/modules/modules/sui-zygisk/v13.0.1_306.zip",
-        "changelog": "https://o1001100.github.io/modules/modules/sui-zygisk/v13.0.1_306.md"
       }
     },
     {
