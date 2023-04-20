@@ -27,6 +27,9 @@ jobs:
       - name: Clean local directory
         run: rm -f local/*
 
+      - name: ??
+        run: ls -R
+
       # prepare pixelify zip
       - name: make pixelify zip
         run: zip -qq -r local/pixelify.zip Pixelify/module
