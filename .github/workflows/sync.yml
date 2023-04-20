@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Sync Modules
-      run: python util/cli.py sync
+        run: python util/cli.py sync
 
       - name: Git Commit Push Action
         uses: GuillaumeFalourd/git-commit-push@v1.3
