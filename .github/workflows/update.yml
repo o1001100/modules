@@ -83,6 +83,7 @@ jobs:
       - name: Build sui-zygisk with Gradle
         working-directory: ./Sui
         run: |
+          export ANDROID_HOME=/usr/local/lib/android/sdk
           mkdir -p ~/.gradle/wrapper
           mkdir -p ~/.gradle/caches
           [ $(du -s ~/.gradle/wrapper | awk '{ print $1 }') -gt 250000 ] && rm -rf ~/.gradle/wrapper/* || true
