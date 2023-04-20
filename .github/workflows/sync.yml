@@ -27,8 +27,18 @@ jobs:
       - name: test
         run: ls -R && pwd
 
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11' # install the python version needed
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ./util/requirements.txt
+
       - name: Sync Modules
-        run: python util/cli.py sync
+        run: python ./util/cli.py sync
 
       - name: Git Commit Push Action
         uses: GuillaumeFalourd/git-commit-push@v1.3
