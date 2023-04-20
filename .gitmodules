@@ -1,9 +1,12 @@
 [submodule "util"]
 	path = util
 	url = https://github.com/ya0211/magisk-modules-repo-util
+	ignore = dirty
 [submodule "Sui"]
 	path = Sui
 	url = https://github.com/RikkaApps/Sui/
+	ignore = dirty
 [submodule "Pixelify"]
 	path = Pixelify
 	url = https://github.com/Kingsman44/Pixelify
+	ignore = dirty
