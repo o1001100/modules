@@ -35,10 +35,6 @@ jobs:
       - name: make pixelify zip
         run: zip -qq -r local/pixelify.zip Pixelify/module
 
-      # move sui zip to local directory
-      - name: move sui zip
-        run: mv Sui/sui-zygisk-*-release.zip local/sui-zygisk.zip
-
       # prepare to sync with cli.py
       - name: setup python
         uses: actions/setup-python@v4
