@@ -1,0 +1,13 @@
+{
+  "id": "sui-zygisk",
+  "timestamp": 1675255573.0,
+  "versions": [
+    {
+      "timestamp": 1675255573.0,
+      "version": "v13.0.1",
+      "versionCode": 306,
+      "zipUrl": "https://o1001100.github.io/modules/modules/sui-zygisk/v13.0.1_306.zip",
+      "changelog": ""
+    }
+  ]
+}
