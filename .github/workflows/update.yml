@@ -31,10 +31,6 @@ jobs:
       - name: ??
         run: ls -R
 
-      # prepare pixelify zip
-      - name: make pixelify zip
-        run: zip -qq -r local/pixelify.zip Pixelify/module
-
       # prepare to sync with cli.py
       - name: setup python
         uses: actions/setup-python@v4
