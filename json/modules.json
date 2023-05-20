@@ -1,10 +1,6 @@
 {
   "name": "cool-modules",
-  "timestamp": 1683554997.42133,
-  "desc": {
-    "version": "1.0.0.ec3bb79",
-    "versionCode": 154
-  },
+  "timestamp": 1684591786.908544,
   "modules": [
     {
       "id": "NoStorageRestrict",
