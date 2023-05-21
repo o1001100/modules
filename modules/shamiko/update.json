@@ -1,7 +1,14 @@
 {
   "id": "shamiko",
-  "timestamp": 1683220846.0,
+  "timestamp": 1684643395.0,
   "versions": [
+    {
+      "timestamp": 1684643395.0,
+      "version": "v0.7.2 (170)",
+      "versionCode": 170,
+      "zipUrl": "https://o1001100.github.io/modules/modules/shamiko/v0.7.2_(170)_170.zip",
+      "changelog": "https://o1001100.github.io/modules/modules/shamiko/v0.7.2_(170)_170.md"
+    },
     {
       "timestamp": 1683220846.0,
       "version": "v0.7.1 (166)",

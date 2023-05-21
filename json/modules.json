@@ -1,6 +1,6 @@
 {
   "name": "cool-modules",
-  "timestamp": 1684591786.908544,
+  "timestamp": 1684678158.075129,
   "modules": [
     {
       "id": "NoStorageRestrict",
@@ -109,14 +109,14 @@
     {
       "id": "shamiko",
       "license": "",
-      "version": "v0.7.1 (166)",
-      "versionCode": 166,
+      "version": "v0.7.2 (170)",
+      "versionCode": 170,
       "name": "Shamiko",
       "author": "LSPosed Developers",
       "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
       "states": {
-        "zipUrl": "https://o1001100.github.io/modules/modules/shamiko/v0.7.1_(166)_166.zip",
-        "changelog": "https://o1001100.github.io/modules/modules/shamiko/v0.7.1_(166)_166.md"
+        "zipUrl": "https://o1001100.github.io/modules/modules/shamiko/v0.7.2_(170)_170.zip",
+        "changelog": "https://o1001100.github.io/modules/modules/shamiko/v0.7.2_(170)_170.md"
       }
     },
     {
