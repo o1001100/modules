@@ -1,7 +1,14 @@
 {
   "id": "jamesdsp",
-  "timestamp": 1681981633.836529,
+  "timestamp": 1684851029.709968,
   "versions": [
+    {
+      "timestamp": 1684851029.709968,
+      "version": "v4.7 (8-4-2022)",
+      "versionCode": 87,
+      "zipUrl": "https://o1001100.github.io/modules/modules/jamesdsp/v4.7_(8-4-2022)_87.zip",
+      "changelog": "https://o1001100.github.io/modules/modules/jamesdsp/v4.7_(8-4-2022)_87.md"
+    },
     {
       "timestamp": 1681981633.836529,
       "version": "v4.6 (8-4-2022)",

@@ -1,6 +1,6 @@
 {
   "name": "cool-modules",
-  "timestamp": 1684764599.838057,
+  "timestamp": 1684851025.052717,
   "modules": [
     {
       "id": "NoStorageRestrict",
@@ -57,14 +57,14 @@
     {
       "id": "jamesdsp",
       "license": "",
-      "version": "v4.6 (8-4-2022)",
-      "versionCode": 86,
+      "version": "v4.7 (8-4-2022)",
+      "versionCode": 87,
       "name": "JamesDSP Manager",
       "author": "james34602, zackptg5, ahrion",
       "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
       "states": {
-        "zipUrl": "https://o1001100.github.io/modules/modules/jamesdsp/v4.6_(8-4-2022)_86.zip",
-        "changelog": "https://o1001100.github.io/modules/modules/jamesdsp/v4.6_(8-4-2022)_86.md"
+        "zipUrl": "https://o1001100.github.io/modules/modules/jamesdsp/v4.7_(8-4-2022)_87.zip",
+        "changelog": "https://o1001100.github.io/modules/modules/jamesdsp/v4.7_(8-4-2022)_87.md"
       }
     },
     {
