@@ -1,7 +1,14 @@
 {
   "id": "adb-ndk",
-  "timestamp": 1681976420.0,
+  "timestamp": 1685023824.0,
   "versions": [
+    {
+      "timestamp": 1685023824.0,
+      "version": "1.0.41",
+      "versionCode": 104110,
+      "zipUrl": "https://o1001100.github.io/modules/modules/adb-ndk/1.0.41_104110.zip",
+      "changelog": "https://o1001100.github.io/modules/modules/adb-ndk/1.0.41_104110.md"
+    },
     {
       "timestamp": 1681976420.0,
       "version": "1.0.41",

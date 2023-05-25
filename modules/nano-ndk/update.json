@@ -1,7 +1,14 @@
 {
   "id": "nano-ndk",
-  "timestamp": 1681976469.0,
+  "timestamp": 1685023829.0,
   "versions": [
+    {
+      "timestamp": 1685023829.0,
+      "version": "7.2",
+      "versionCode": 7202,
+      "zipUrl": "https://o1001100.github.io/modules/modules/nano-ndk/7.2_7202.zip",
+      "changelog": "https://o1001100.github.io/modules/modules/nano-ndk/7.2_7202.md"
+    },
     {
       "timestamp": 1681976469.0,
       "version": "7.2",
