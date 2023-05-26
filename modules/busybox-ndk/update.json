@@ -1,7 +1,14 @@
 {
   "id": "busybox-ndk",
-  "timestamp": 1685023824.0,
+  "timestamp": 1685110164.0,
   "versions": [
+    {
+      "timestamp": 1685110164.0,
+      "version": "1.36.1",
+      "versionCode": 13611,
+      "zipUrl": "https://o1001100.github.io/modules/modules/busybox-ndk/1.36.1_13611.zip",
+      "changelog": "https://o1001100.github.io/modules/modules/busybox-ndk/1.36.1_13611.md"
+    },
     {
       "timestamp": 1685023824.0,
       "version": "1.36.1",
