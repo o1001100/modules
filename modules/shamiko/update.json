@@ -1,7 +1,14 @@
 {
   "id": "shamiko",
-  "timestamp": 1684692405.0,
+  "timestamp": 1685850239.0,
   "versions": [
+    {
+      "timestamp": 1685850239.0,
+      "version": "v0.7.3 (174)",
+      "versionCode": 174,
+      "zipUrl": "https://o1001100.github.io/modules/modules/shamiko/v0.7.3_(174)_174.zip",
+      "changelog": "https://o1001100.github.io/modules/modules/shamiko/v0.7.3_(174)_174.md"
+    },
     {
       "timestamp": 1684692405.0,
       "version": "v0.7.2 (172)",
@@ -15,13 +22,6 @@
       "versionCode": 170,
       "zipUrl": "https://o1001100.github.io/modules/modules/shamiko/v0.7.2_(170)_170.zip",
       "changelog": "https://o1001100.github.io/modules/modules/shamiko/v0.7.2_(170)_170.md"
-    },
-    {
-      "timestamp": 1683220846.0,
-      "version": "v0.7.1 (166)",
-      "versionCode": 166,
-      "zipUrl": "https://o1001100.github.io/modules/modules/shamiko/v0.7.1_(166)_166.zip",
-      "changelog": "https://o1001100.github.io/modules/modules/shamiko/v0.7.1_(166)_166.md"
     }
   ]
 }
