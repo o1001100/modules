@@ -1,0 +1,9 @@
+{
+  "id": "AOSPMods",
+  "update_to": "https://raw.githubusercontent.com/siavash79/AOSPMods/stable/MagiskModuleUpdate.json",
+  "license": "",
+  "changelog": "https://raw.githubusercontent.com/siavash79/AOSPMods/stable/MagiskChangelog.md",
+  "added": 1687699876.192265,
+  "last_update": 1686577257.0,
+  "versions": 1
+}

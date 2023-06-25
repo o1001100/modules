@@ -1,0 +1,13 @@
+{
+  "id": "HideNavBar",
+  "versions": [
+    {
+      "timestamp": 1672873450.0,
+      "version": "v21.0",
+      "versionCode": 55,
+      "zipUrl": "https://o1001100.github.io/modules/modules/hidenavbar/v21.0_55.zip",
+      "changelog": "https://o1001100.github.io/modules/modules/hidenavbar/v21.0_55.md"
+    }
+  ],
+  "timestamp": 1672873450.0
+}
