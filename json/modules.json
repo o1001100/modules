@@ -1,41 +1,71 @@
 {
   "name": "cool-modules",
-  "timestamp": 1686492539.971646,
+  "timestamp": 1687697012.086081,
+  "metadata": {
+    "version": "1.0.0.55fac0a",
+    "versionCode": 243
+  },
   "modules": [
     {
       "id": "NoStorageRestrict",
-      "license": "",
+      "name": "NoStorageRestrict",
       "version": "v2",
       "versionCode": 2,
-      "name": "NoStorageRestrict",
       "author": "DanGLES3",
       "description": "Disables the restriction of not being able to select certain folders (like downloads/sdcard) when prompted by apps",
+      "license": "",
       "states": {
         "zipUrl": "https://o1001100.github.io/modules/modules/NoStorageRestrict/v2_2.zip",
         "changelog": ""
       }
     },
     {
-      "id": "adb-ndk",
+      "id": "Pixelify",
+      "name": "Pixelify",
+      "version": "v2.2",
+      "versionCode": 20230318,
+      "author": "Kingsman44",
+      "description": "Enables pixel exclusive features :- Call Screening, Live Translate, Direct Call, Google Dialer Call Recording, Extreme Battery Saver, Hold For Me, Gboard Smart Compose, Adaptive Connectivity, Adaptive Sound, Next generation assistant, Pixel LiveWallpapers, Google Fit Heart rate and many more...",
       "license": "",
+      "states": {
+        "zipUrl": "https://o1001100.github.io/modules/modules/Pixelify/v2.2_20230318.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "adb-ndk",
+      "name": "ADB & Fastboot for Android NDK",
       "version": "1.0.41",
       "versionCode": 104111,
-      "name": "ADB & Fastboot for Android NDK",
       "author": "osm0sis & Surge1223 @ xda-developers",
       "description": "Static ARM adb and fastboot binaries for Android built with the NDK",
+      "license": "",
       "states": {
         "zipUrl": "https://o1001100.github.io/modules/modules/adb-ndk/1.0.41_104111.zip",
         "changelog": "https://o1001100.github.io/modules/modules/adb-ndk/1.0.41_104111.md"
       }
     },
     {
-      "id": "busybox-ndk",
+      "id": "ainur_jamesdsp",
+      "name": "JamesDSP Manager",
+      "version": "v4.7 (8-4-2022)",
+      "versionCode": 87,
+      "author": "james34602, zackptg5, ahrion",
+      "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
       "license": "",
+      "states": {
+        "zipUrl": "https://o1001100.github.io/modules/modules/jamesdsp/v4.7_(8-4-2022)_87.zip",
+        "changelog": "https://o1001100.github.io/modules/modules/jamesdsp/v4.7_(8-4-2022)_87.md"
+      }
+    },
+    {
+      "id": "busybox-ndk",
+      "name": "Busybox for Android NDK",
       "version": "1.36.1",
       "versionCode": 13612,
-      "name": "Busybox for Android NDK",
       "author": "osm0sis @ xda-developers",
       "description": "Static busybox binary for all Android architectures built with the NDK",
+      "license": "",
       "states": {
         "zipUrl": "https://o1001100.github.io/modules/modules/busybox-ndk/1.36.1_13612.zip",
         "changelog": "https://o1001100.github.io/modules/modules/busybox-ndk/1.36.1_13612.md"
@@ -43,38 +73,25 @@
     },
     {
       "id": "ccbins",
-      "license": "",
+      "name": "Cross Compiled Binaries",
       "version": "v10",
       "versionCode": 15,
-      "name": "Cross Compiled Binaries",
       "author": "Zackptg5",
       "description": "A growing collection of cross compiled binaries for android",
+      "license": "",
       "states": {
         "zipUrl": "https://o1001100.github.io/modules/modules/ccbins/v10_15.zip",
         "changelog": ""
       }
     },
     {
-      "id": "jamesdsp",
-      "license": "",
-      "version": "v4.7 (8-4-2022)",
-      "versionCode": 87,
-      "name": "JamesDSP Manager",
-      "author": "james34602, zackptg5, ahrion",
-      "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
-      "states": {
-        "zipUrl": "https://o1001100.github.io/modules/modules/jamesdsp/v4.7_(8-4-2022)_87.zip",
-        "changelog": "https://o1001100.github.io/modules/modules/jamesdsp/v4.7_(8-4-2022)_87.md"
-      }
-    },
-    {
       "id": "mindetach",
-      "license": "",
+      "name": "mindetach",
       "version": "v3.3",
       "versionCode": 11,
-      "name": "mindetach",
       "author": "j-hc",
       "description": "Minimal module for detaching apps from Play Store",
+      "license": "",
       "states": {
         "zipUrl": "https://o1001100.github.io/modules/modules/mindetach/v3.3_11.zip",
         "changelog": "https://o1001100.github.io/modules/modules/mindetach/v3.3_11.md"
@@ -82,12 +99,12 @@
     },
     {
       "id": "nano-ndk",
-      "license": "",
+      "name": "Nano for Android NDK",
       "version": "7.2",
       "versionCode": 7203,
-      "name": "Nano for Android NDK",
       "author": "osm0sis @ xda-developers",
       "description": "Static ARM nano binary for Android built with the NDK",
+      "license": "",
       "states": {
         "zipUrl": "https://o1001100.github.io/modules/modules/nano-ndk/7.2_7203.zip",
         "changelog": "https://o1001100.github.io/modules/modules/nano-ndk/7.2_7203.md"
@@ -95,54 +112,54 @@
     },
     {
       "id": "safetynet-fix",
-      "license": "",
+      "name": "Universal SafetyNet Fix",
       "version": "v2.4.0",
       "versionCode": 20400,
-      "name": "Universal SafetyNet Fix",
       "author": "kdrag0n",
       "description": "A universal fix for SafetyNet and Play Integrity on Android 8\u201313 devices with hardware attestation.",
+      "license": "",
       "states": {
         "zipUrl": "https://o1001100.github.io/modules/modules/safetynet-fix/v2.4.0_20400.zip",
         "changelog": "https://o1001100.github.io/modules/modules/safetynet-fix/v2.4.0_20400.md"
       }
     },
     {
-      "id": "shamiko",
+      "id": "terminalmods",
+      "name": "Terminal Modifications",
+      "version": "v1.5.0",
+      "versionCode": 150,
+      "author": "Skittles9823",
+      "description": "Android terminal - The way it should be",
       "license": "",
-      "version": "v0.7.3 (174)",
-      "versionCode": 174,
-      "name": "Shamiko",
-      "author": "LSPosed Developers",
-      "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
       "states": {
-        "zipUrl": "https://o1001100.github.io/modules/modules/shamiko/v0.7.3_(174)_174.zip",
-        "changelog": "https://o1001100.github.io/modules/modules/shamiko/v0.7.3_(174)_174.md"
+        "zipUrl": "https://o1001100.github.io/modules/modules/terminalmods/v1.5.0_150.zip",
+        "changelog": ""
       }
     },
     {
-      "id": "sui-zygisk",
-      "license": "",
+      "id": "zygisk-sui",
+      "name": "Zygisk - Sui",
       "version": "v13.0.1",
       "versionCode": 306,
-      "name": "Zygisk - Sui",
       "author": "Rikka",
       "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
+      "license": "",
       "states": {
         "zipUrl": "https://o1001100.github.io/modules/modules/sui-zygisk/v13.0.1_306.zip",
         "changelog": ""
       }
     },
     {
-      "id": "terminalmods",
+      "id": "zygisk_shamiko",
+      "name": "Shamiko",
+      "version": "v0.7.3 (174)",
+      "versionCode": 174,
+      "author": "LSPosed Developers",
+      "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
       "license": "",
-      "version": "v1.5.0",
-      "versionCode": 150,
-      "name": "Terminal Modifications",
-      "author": "Skittles9823",
-      "description": "Android terminal - The way it should be",
       "states": {
-        "zipUrl": "https://o1001100.github.io/modules/modules/terminalmods/v1.5.0_150.zip",
-        "changelog": ""
+        "zipUrl": "https://o1001100.github.io/modules/modules/shamiko/v0.7.3_(174)_174.zip",
+        "changelog": "https://o1001100.github.io/modules/modules/shamiko/v0.7.3_(174)_174.md"
       }
     }
   ]
