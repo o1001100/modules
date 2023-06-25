@@ -24,10 +24,7 @@ jobs:
           git pull --recurse-submodules
           git submodule update --remote --recursive
 
-      # cleanup
-      - name: Clean local directory
-        run: rm -f local/*
-
+      # make sure shit is in the right place
       - name: ??
         run: ls -R
 
@@ -35,7 +32,7 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11' # install the python version needed
+          python-version: '3.11'
 
       - name: install python packages
         run: |
@@ -46,6 +43,7 @@ jobs:
       - name: Sync Modules
         run: python util/cli.py sync
 
+      # commit changes
       - name: Git Commit Push Action
         uses: GuillaumeFalourd/git-commit-push@v1.3
         with:
