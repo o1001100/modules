@@ -1,6 +1,6 @@
 {
   "name": "cool-modules",
-  "timestamp": 1687709009.870533,
+  "timestamp": 1687709356.520571,
   "metadata": {
     "version": "1.0.0.55fac0a",
     "versionCode": 243
@@ -81,6 +81,19 @@
       "license": "",
       "states": {
         "zipUrl": "https://o1001100.github.io/modules/modules/ccbins/v10_15.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "isodrive",
+      "name": "Isodrive",
+      "author": "Marcel Alexandru Nitan",
+      "version": "1.2",
+      "versionCode": 12,
+      "description": "Use your mobile device to boot Linux distributions/ISO files on your PC",
+      "license": "",
+      "states": {
+        "zipUrl": "https://o1001100.github.io/modules/modules/isodrive/1.2_12.zip",
         "changelog": ""
       }
     },
