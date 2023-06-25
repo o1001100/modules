@@ -24,7 +24,15 @@ jobs:
           git pull --recurse-submodules
           git submodule update --remote --recursive
 
-      # make sure shit is in the right place
+      # fetch zips that are stinky and annoying to get
+      - name: fetch modules
+        run: |
+          # fetch v4a repackaged
+          curl -s https://api.github.com/repos/programminghoch10/ViPER4AndroidRepackaged/releases/latest | jq -r ".assets[0] | .browser_download_url" | wget -O local/v4a.zip -i -
+          # fetch sui
+          curl -s https://api.github.com/repos/RikkaApps/Sui/releases/latest | jq -r ".assets[1] | .browser_download_url" | wget -O ./local/sui.zip -i -
+
+      # sanity check idk
       - name: ??
         run: ls -R
 
