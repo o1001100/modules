@@ -15,8 +15,8 @@
       "description": "Xposed based module for customizations on SystemUI on AOSP based roms. Supports Android 12+",
       "license": "",
       "states": {
-        "zipUrl": "https://o1001100.github.io/modules/modules/aospmods/2.9.0_258.zip",
-        "changelog": "https://o1001100.github.io/modules/modules/aospmods/2.9.0_258.md"
+        "zipUrl": "https://o1001100.github.io/modules/modules/AOSPMods/2.9.0_258.zip",
+        "changelog": "https://o1001100.github.io/modules/modules/AOSPMods/2.9.0_258.md"
       }
     },
     {
@@ -28,8 +28,8 @@
       "description": "Customize Android 10-13's navigation gestures ",
       "license": "",
       "states": {
-        "zipUrl": "https://o1001100.github.io/modules/modules/hidenavbar/v21.0_55.zip",
-        "changelog": "https://o1001100.github.io/modules/modules/hidenavbar/v21.0_55.md"
+        "zipUrl": "https://o1001100.github.io/modules/modules/HideNavBar/v21.0_55.zip",
+        "changelog": "https://o1001100.github.io/modules/modules/HideNavBar/v21.0_55.md"
       }
     },
     {
@@ -158,8 +158,8 @@
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Magisk 24.0+ and Zygisk enabled.",
       "license": "",
       "states": {
-        "zipUrl": "https://o1001100.github.io/modules/modules/lsposed/v1.8.6_6712.zip",
-        "changelog": "https://o1001100.github.io/modules/modules/lsposed/v1.8.6_6712.md"
+        "zipUrl": "https://o1001100.github.io/modules/modules/zygisk_lsposed/v1.8.6_6712.zip",
+        "changelog": "https://o1001100.github.io/modules/modules/zygisk_lsposed/v1.8.6_6712.md"
       }
     },
     {
